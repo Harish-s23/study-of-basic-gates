@@ -77,7 +77,7 @@ module Ex01(a,b,c);
  endmodule
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
-
+ 
  Developed by:Haresh R
  RegisterNumber: 24901004
  
